@@ -1,0 +1,11 @@
+@import './reset';
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-top: 10px;
+}
+
+@import './invoice';
